@@ -41,11 +41,11 @@ Epoch 10/10
 ### Test Accuracy
 The model achieved an accuracy of approximately 92% on the test dataset.
 Test accuracy: 92.08% this is for the test dataset from the main dataset
-![Test 1 Image](results\test_1.jpg)
+![Test 1 Image](https://github.com/IbraheimTarek/Image-classifier/blob/main/results/test_1.jpg)
 
 After testing on the main test data I changed pick some images randomly from slash app and tested the result with
 Accuracy: 80.00%
-![Test 2 Image](results\test_2.jpg)
+![Test 2 Image](https://github.com/IbraheimTarek/Image-classifier/blob/main/results/test_2.jpg)
 ## Visualizing Results
 I visualized randomly selected images from the test dataset along with their predicted classes. Additionally, I compared the predicted classes with the true labels stored in a CSV file.
 
