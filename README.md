@@ -59,7 +59,7 @@ I visualized randomly selected images from the test dataset along with their pre
 
 # Vidoe
 sorry, I could't breath well (┬┬﹏┬┬)
-![Video](https://github.com/IbraheimTarek/Image-classifier/blob/main/results/video.mp4)
+https://github.com/IbraheimTarek/Image-classifier/blob/main/results/video.mp4
 
 the training dataset link before spliting
 (https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small)
