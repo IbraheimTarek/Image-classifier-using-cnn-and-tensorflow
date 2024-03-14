@@ -20,22 +20,31 @@ After training, the model's performance was evaluated on a test dataset. The eva
 
 -Epoch 1/10
     - accuracy: 0.9871 - loss: 0.0388 - val_accuracy: 0.9312 - val_loss: 0.4171
+    
 -Epoch 2/10
     - accuracy: 1.0000 - loss: 0.0019 - val_accuracy: 1.0000 - val_loss: 0.0213
+    
 -Epoch 3/10
     -accuracy: 0.9955 - loss: 0.0173 - val_accuracy: 0.9354 - val_loss: 0.3298
+    
 -Epoch 4/10
     -accuracy: 0.9688 - loss: 0.0254 - val_accuracy: 1.0000 - val_loss: 1.4236e-04
+    
 -Epoch 5/10
     -accuracy: 0.9969 - loss: 0.0149 - val_accuracy: 0.9312 - val_loss: 0.3802
+    
 -Epoch 6/10
     -accuracy: 1.0000 - loss: 5.1846e-04 - val_accuracy: 0.8571 - val_loss: 0.2513
+    
 -Epoch 7/10
     -accuracy: 0.9866 - loss: 0.0316 - val_accuracy: 0.9187 - val_loss: 0.4713
+    
 -Epoch 8/10
     -accuracy: 0.9688 - loss: 0.0630 - val_accuracy: 0.8571 - val_loss: 0.1936
+    
 -Epoch 9/10
     -accuracy: 0.9946 - loss: 0.0230 - val_accuracy: 0.9146 - val_loss: 0.5501
+    
 -Epoch 10/10
     -accuracy: 0.9688 - loss: 0.0213 - val_accuracy: 1.0000 - val_loss: 7.0693e-04
 
